@@ -23,9 +23,9 @@ describe('what-is-a-test', () => {
 })
 */
 
-describe('what-is-a-test', () => {
-  describe('Name', () => {
-    it("", () => {
+describe('', () => {
+  describe('', () => {
+    it('', () => {
       return true;
     })
   })
