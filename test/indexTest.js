@@ -25,8 +25,8 @@ describe('what-is-a-test', () => {
 
 describe('what-is-a-test', () => {
   describe('Name', () => {
-    it("doesn't exist", () => {
-      expect(name).not.to.exist;
+    it("", () => {
+      return true;
     })
   })
 })
